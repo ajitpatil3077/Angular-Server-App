@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "country": "Greece",
+        "state": null,
+        "city": "Vrilissia"
+    },
+    {
+        "id": 2,
+        "country": "United States",
+        "state": "North Dakota",
+        "city": "Grand Forks"
+    },
+    {
+        "id": 3,
+        "country": "Costa Rica",
+        "state": null,
+        "city": "Cartago"
+    },
+    {
+        "id": 4,
+        "country": "Luxembourg",
+        "state": null,
+        "city": "Steinfort"
+    },
+    {
+        "id": 5,
+        "country": "Colombia",
+        "state": null,
+        "city": "La Cumbre"
+    },
+    {
+        "id": 6,
+        "country": "Nigeria",
+        "state": null,
+        "city": "Garko"
+    },
+    {
+        "id": 7,
+        "country": "Mexico",
+        "state": "Coahuila De Zaragoza",
+        "city": "Independencia"
+    },
+    {
+        "id": 8,
+        "country": "Sri Lanka",
+        "state": null,
+        "city": "Sri Jayewardenepura Kotte"
+    },
+    {
+        "id": 9,
+        "country": "France",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "city": "Bollène"
+    },
+    {
+        "id": 10,
+        "country": "Honduras",
+        "state": null,
+        "city": "Concepción de la Barranca"
+    },
+    {
+        "id": 11,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Wirodayan"
+    },
+    {
+        "id": 12,
+        "country": "Brazil",
+        "state": null,
+        "city": "Paraguaçu Paulista"
+    },
+    {
+        "id": 13,
+        "country": "China",
+        "state": null,
+        "city": "Daweishan"
+    },
+    {
+        "id": 14,
+        "country": "China",
+        "state": null,
+        "city": "Yulin"
+    },
+    {
+        "id": 15,
+        "country": "Croatia",
+        "state": null,
+        "city": "Lovas"
+    },
+    {
+        "id": 16,
+        "country": "Colombia",
+        "state": null,
+        "city": "Arauca"
+    },
+    {
+        "id": 17,
+        "country": "Thailand",
+        "state": null,
+        "city": "Ban Thaen"
+    },
+    {
+        "id": 18,
+        "country": "Poland",
+        "state": null,
+        "city": "Krasne"
+    },
+    {
+        "id": 19,
+        "country": "Bangladesh",
+        "state": null,
+        "city": "Nālchiti"
+    },
+    {
+        "id": 20,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Cinyawang"
+    },
+    {
+        "id": 21,
+        "country": "China",
+        "state": null,
+        "city": "Zhenping Chengguanzhen"
+    },
+    {
+        "id": 22,
+        "country": "Malaysia",
+        "state": "Negeri Sembilan",
+        "city": "Seremban"
+    },
+    {
+        "id": 23,
+        "country": "Serbia",
+        "state": null,
+        "city": "Niš"
+    },
+    {
+        "id": 24,
+        "country": "Slovenia",
+        "state": null,
+        "city": "Kranj"
+    },
+    {
+        "id": 25,
+        "country": "Cyprus",
+        "state": null,
+        "city": "Émpa"
+    },
+    {
+        "id": 26,
+        "country": "Jamaica",
+        "state": null,
+        "city": "Annotto Bay"
+    },
+    {
+        "id": 27,
+        "country": "China",
+        "state": null,
+        "city": "Licheng"
+    },
+    {
+        "id": 28,
+        "country": "China",
+        "state": null,
+        "city": "Qiwen"
+    },
+    {
+        "id": 29,
+        "country": "Czech Republic",
+        "state": null,
+        "city": "Žitenice"
+    },
+    {
+        "id": 30,
+        "country": "Poland",
+        "state": null,
+        "city": "Lachowice"
+    },
+    {
+        "id": 31,
+        "country": "Poland",
+        "state": null,
+        "city": "Wierzchosławice"
+    },
+    {
+        "id": 32,
+        "country": "France",
+        "state": "Aquitaine",
+        "city": "Mont-de-Marsan"
+    },
+    {
+        "id": 33,
+        "country": "United States",
+        "state": "Colorado",
+        "city": "Colorado Springs"
+    },
+    {
+        "id": 34,
+        "country": "Portugal",
+        "state": "Coimbra",
+        "city": "Carromeu"
+    },
+    {
+        "id": 35,
+        "country": "China",
+        "state": null,
+        "city": "Zhouwang"
+    },
+    {
+        "id": 36,
+        "country": "China",
+        "state": null,
+        "city": "Xintaimen"
+    },
+    {
+        "id": 37,
+        "country": "China",
+        "state": null,
+        "city": "Wulong"
+    },
+    {
+        "id": 38,
+        "country": "Ivory Coast",
+        "state": null,
+        "city": "Sinfra"
+    },
+    {
+        "id": 39,
+        "country": "Sweden",
+        "state": "Värmland",
+        "city": "Filipstad"
+    },
+    {
+        "id": 40,
+        "country": "Brazil",
+        "state": null,
+        "city": "Carazinho"
+    },
+    {
+        "id": 41,
+        "country": "France",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "city": "Manosque"
+    },
+    {
+        "id": 42,
+        "country": "China",
+        "state": null,
+        "city": "Zhongluotan"
+    },
+    {
+        "id": 43,
+        "country": "Norway",
+        "state": "Vestfold",
+        "city": "Larvik"
+    },
+    {
+        "id": 44,
+        "country": "Slovenia",
+        "state": null,
+        "city": "Trnovska Vas"
+    },
+    {
+        "id": 45,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Kelapa"
+    },
+    {
+        "id": 46,
+        "country": "Philippines",
+        "state": null,
+        "city": "Imus"
+    },
+    {
+        "id": 47,
+        "country": "Georgia",
+        "state": null,
+        "city": "T’ianet’i"
+    },
+    {
+        "id": 48,
+        "country": "Thailand",
+        "state": null,
+        "city": "Aranyaprathet"
+    },
+    {
+        "id": 49,
+        "country": "Tajikistan",
+        "state": null,
+        "city": "Abdurahmoni Jomí"
+    },
+    {
+        "id": 50,
+        "country": "Mauritius",
+        "state": null,
+        "city": "Roche Terre"
+    },
+    {
+        "id": 51,
+        "country": "China",
+        "state": null,
+        "city": "Ciyu"
+    },
+    {
+        "id": 52,
+        "country": "Guatemala",
+        "state": null,
+        "city": "San Rafael Petzal"
+    },
+    {
+        "id": 53,
+        "country": "China",
+        "state": null,
+        "city": "Pingkai"
+    },
+    {
+        "id": 54,
+        "country": "China",
+        "state": null,
+        "city": "Biaokou"
+    },
+    {
+        "id": 55,
+        "country": "Azerbaijan",
+        "state": null,
+        "city": "Khirdalan"
+    },
+    {
+        "id": 56,
+        "country": "China",
+        "state": null,
+        "city": "Wulan Haye"
+    },
+    {
+        "id": 57,
+        "country": "France",
+        "state": "Île-de-France",
+        "city": "Paris 02"
+    },
+    {
+        "id": 58,
+        "country": "Czech Republic",
+        "state": null,
+        "city": "Velká Dobrá"
+    },
+    {
+        "id": 59,
+        "country": "Greece",
+        "state": null,
+        "city": "Ágios Pétros"
+    },
+    {
+        "id": 60,
+        "country": "Portugal",
+        "state": "Bragança",
+        "city": "Fonte da Aldeia"
+    },
+    {
+        "id": 61,
+        "country": "Russia",
+        "state": null,
+        "city": "Surkhakhi"
+    },
+    {
+        "id": 62,
+        "country": "China",
+        "state": null,
+        "city": "Xugu"
+    },
+    {
+        "id": 63,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Kuningan"
+    },
+    {
+        "id": 64,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Seulimeum"
+    },
+    {
+        "id": 65,
+        "country": "China",
+        "state": null,
+        "city": "Chengxiang"
+    },
+    {
+        "id": 66,
+        "country": "Sweden",
+        "state": "Värmland",
+        "city": "Kristinehamn"
+    },
+    {
+        "id": 67,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Dalo"
+    },
+    {
+        "id": 68,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Sumuragung"
+    },
+    {
+        "id": 69,
+        "country": "Poland",
+        "state": null,
+        "city": "Mielec"
+    },
+    {
+        "id": 70,
+        "country": "Malta",
+        "state": null,
+        "city": "Mġarr"
+    },
+    {
+        "id": 71,
+        "country": "Greece",
+        "state": null,
+        "city": "Agía Varvára"
+    },
+    {
+        "id": 72,
+        "country": "Brazil",
+        "state": null,
+        "city": "Piquete"
+    },
+    {
+        "id": 73,
+        "country": "Switzerland",
+        "state": "Kanton Luzern",
+        "city": "Luzern"
+    },
+    {
+        "id": 74,
+        "country": "Norway",
+        "state": "Oslo",
+        "city": "Oslo"
+    },
+    {
+        "id": 75,
+        "country": "Sweden",
+        "state": "Kalmar",
+        "city": "Västervik"
+    },
+    {
+        "id": 76,
+        "country": "Uzbekistan",
+        "state": null,
+        "city": "Quvasoy"
+    },
+    {
+        "id": 77,
+        "country": "China",
+        "state": null,
+        "city": "Zhongbu"
+    },
+    {
+        "id": 78,
+        "country": "Japan",
+        "state": null,
+        "city": "Shimada"
+    },
+    {
+        "id": 79,
+        "country": "Guinea",
+        "state": null,
+        "city": "Dubréka"
+    },
+    {
+        "id": 80,
+        "country": "Argentina",
+        "state": null,
+        "city": "Daireaux"
+    },
+    {
+        "id": 81,
+        "country": "Pakistan",
+        "state": null,
+        "city": "Faqīrwāli"
+    },
+    {
+        "id": 82,
+        "country": "Vietnam",
+        "state": null,
+        "city": "Thị Trấn Việt Quang"
+    },
+    {
+        "id": 83,
+        "country": "China",
+        "state": null,
+        "city": "Chengjiang"
+    },
+    {
+        "id": 84,
+        "country": "China",
+        "state": null,
+        "city": "Zhongxinqiao"
+    },
+    {
+        "id": 85,
+        "country": "Philippines",
+        "state": null,
+        "city": "San Antonio"
+    },
+    {
+        "id": 86,
+        "country": "Brazil",
+        "state": null,
+        "city": "União dos Palmares"
+    },
+    {
+        "id": 87,
+        "country": "Ukraine",
+        "state": null,
+        "city": "Petrivka"
+    },
+    {
+        "id": 88,
+        "country": "Bosnia and Herzegovina",
+        "state": null,
+        "city": "Balatun"
+    },
+    {
+        "id": 89,
+        "country": "Philippines",
+        "state": null,
+        "city": "Digos"
+    },
+    {
+        "id": 90,
+        "country": "China",
+        "state": null,
+        "city": "Shuikou"
+    },
+    {
+        "id": 91,
+        "country": "Brazil",
+        "state": null,
+        "city": "Frederico Westphalen"
+    },
+    {
+        "id": 92,
+        "country": "Malawi",
+        "state": null,
+        "city": "Blantyre"
+    },
+    {
+        "id": 93,
+        "country": "Gambia",
+        "state": null,
+        "city": "Wassu"
+    },
+    {
+        "id": 94,
+        "country": "Philippines",
+        "state": null,
+        "city": "Simunul"
+    },
+    {
+        "id": 95,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Bangelan"
+    },
+    {
+        "id": 96,
+        "country": "Mongolia",
+        "state": null,
+        "city": "Altan-Ovoo"
+    },
+    {
+        "id": 97,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Cirangrang"
+    },
+    {
+        "id": 98,
+        "country": "Luxembourg",
+        "state": null,
+        "city": "Boevange-sur-Attert"
+    },
+    {
+        "id": 99,
+        "country": "Indonesia",
+        "state": null,
+        "city": "Sukabatu"
+    },
+    {
+        "id": 100,
+        "country": "China",
+        "state": null,
+        "city": "Fengcheng"
+    }
+]
